@@ -1,5 +1,5 @@
-# Eclipse Kura Platform / Debian OS
-[Eclipse Kura Platform](http://www.eclipse.org/kura/)  / [Debian](https://www.debian.org) OS
+# Eclipse Kura Platform / Debian
+[Eclipse Kura Platform](http://www.eclipse.org/kura/)  / [Debian](https://www.debian.org)
 
 ## Version Available
 * Kura version `1.3.0`, `latest`
