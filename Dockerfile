@@ -27,7 +27,7 @@ MAINTAINER Greg AUTRIC <gautric@redhat.com>
 ## Variable ENV
 ENV JAVA_VERSION=${JAVA_VERSION:-7}
 ENV KURA_VERSION=${KURA_VERSION:-1.3.0}
-ENV RPI_VERSION=${RPI_VERSION:-raspberry-pi-bplus}
+ENV RPI_VERSION=${RPI_VERSION:-raspberry-pi-bplus-nn}
 
 ## Debian/Raspbian package installation
 RUN apt-get update && \
