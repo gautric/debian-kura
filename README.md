@@ -5,11 +5,12 @@
 * Kura version `1.3.0`, `latest`
 
 ## Github Repo
-* [Dockerfile repo](https://github.com/gautric/debian-kura)
+* <https://github.com/gautric/debian-kura>
+
+## Docker Hub
+* <https://hub.docker.com/r/gautric/debian-kura/>
 
 ## Run it
 * `docker run -d -p 80:80 -t gautric/debian-kura `
 
-## Docker Hub
-* <https://hub.docker.com/r/gautric/debian-kura/>
 
