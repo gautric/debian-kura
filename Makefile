@@ -22,9 +22,9 @@ version: build
 	docker run --rm $(DOCKER_IMAGE_TAGNAME) java -version
 
 all:
-			# For first version
+			# For first version of Raspberry-Pi
 		  make
-			# for other version
+			# for other version (zero ?)
 	    for model in bplus 2 ; do \
 					export RPI_MODEL=-$$model ; \
 					make build ; \
